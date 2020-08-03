@@ -1,2 +1,0 @@
-# TallerSL
-Taller Servidores Linux
